@@ -1,0 +1,24 @@
+
+
+table{
+    width:30% ;
+    height: 40%;
+}
+td{
+    border-bottom: 1px;
+    border-bottom: solid;
+    border-color: rgb(233, 233, 233);
+    
+}
+th{
+    border-bottom: 4px;
+    border-bottom: solid;
+
+}
+span{
+    background-color: rgb(233, 233, 233);
+}
+
+.columna3{
+    text-align: right;
+}
